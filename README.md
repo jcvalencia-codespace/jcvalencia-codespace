@@ -32,30 +32,6 @@
 
 ## 🛠️ Tech Stack
 
-**SKILLS**
-
-- MERN Stack
-- MongoDB
-- Bit Bucket
-- AWS
-- Firebase
-- MySQL
-- Flutter Flow
-- Flutter
-- Node.js
-- Java
-- JavaScript
-- HTML
-- SQL
-- CSS
-- Github
-- Next.js
-- Git
-- PHP
-- React JS
-- RESTful API
-- Tailwind CSS
-
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,python,git,mongodb,java,php,aws,mysql,github,nextjs,flutter,tailwind,bitbucket,firebase" alt="skills" />
 </div>
