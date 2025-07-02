@@ -5,7 +5,7 @@
   
   <!-- 3D Rotating Name -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👨‍💻+JAIRUS+CASTRO+VALENCIA;🚀+FULL-STACK+DEVELOPER;⚡+TECHNICAL+LEAD+%26+INNOVATOR" alt="Animated Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👨‍💻+JAIRUS+C+VALENCIA;🚀+FULL-STACK+DEVELOPER;⚡+TECHNICAL+LEAD+%26+INNOVATOR" alt="Animated Title" />
   </h1>
   
   <!-- Floating 3D Badges -->
