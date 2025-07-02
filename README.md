@@ -5,7 +5,7 @@
   
   <!-- 3D Rotating Name -->
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=🚀+FULL-STACK+DEVELOPER;⚡+TECHNICAL+LEAD+%26+INNOVATOR" alt="Animated Title" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=👨‍💻+JAIRUS+C.+VALENCIA;🚀+FULL-STACK+DEVELOPER" alt="Animated Title" />
   </h1>
   
   <!-- Floating 3D Badges -->
@@ -43,7 +43,7 @@
 <div align="center">
   
   <!-- 3D Rotating Card Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🏢+Software+Engineer+Intern+%26+Technical+Lead;📍+Creciendo+Philippines+(Dec+2024+-+June+2025);💡+Leading+Enterprise+BIMS+Development;🎯+Driving+Client+Acquisition+Through+Innovation" alt="Professional Summary" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🏢+Web+Developer+Intern+%26+Technical+Lead;📍+Creciendo+Philippines+(Dec+2024+-+June+2025);💡+Leading+Enterprise+BIMS+Development;🎯+Driving+Client+Acquisition+Through+Innovation" alt="Professional Summary" />
   
 </div>
 
@@ -144,65 +144,128 @@
   
 </div>
 
-### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> Frontend Mastery
+### <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25"> 🌟 MERN Stack Expertise
 
 <div align="center">
   
-  <!-- Animated Tech Badges with Glow Effects -->
+  <!-- MERN Stack Showcase -->
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&animation=pulse" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&animation=spin" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&animation=bounce" />
+  
+</div>
+
+### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> 🎨 Frontend Technologies
+
+<div align="center">
+  
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind&theme=dark" />
   
   <br/><br/>
   
-  <!-- Moving Tech Badges -->
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&animation=spin" />
+  <img src="https://img.shields.io/badge/React_JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&animation=spin" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&animation=pulse" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&animation=bounce" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=shake" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&animation=glow" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&animation=shake" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&animation=pulse" />
   
 </div>
 
-### <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="25"> Backend Excellence
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> ⚙️ Backend & Server Technologies
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=nodejs,php,java,python&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,php,java&theme=dark" />
   
   <br/><br/>
   
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&animation=pulse" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&animation=glow" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&animation=bounce" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&animation=shake" />
+  <img src="https://img.shields.io/badge/RESTful_API-FF6B6B?style=for-the-badge&logo=api&logoColor=white&animation=shake" />
   
 </div>
 
-### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> Database & Cloud
+### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> 🗄️ Database Technologies
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,firebase&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
   
   <br/><br/>
   
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white&animation=pulse" />
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white&animation=glow" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=bounce" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&animation=shake" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white&animation=bounce" />
   
 </div>
 
-### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> Development Tools
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> ☁️ Cloud & DevOps
 
 <div align="center">
   
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,flutter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=aws,firebase&theme=dark" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white&animation=pulse" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white&animation=glow" />
+  
+</div>
+
+### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> 📱 Mobile Development
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&animation=pulse" />
+  <img src="https://img.shields.io/badge/Flutter_Flow-FF6B6B?style=for-the-badge&logo=flutter&logoColor=white&animation=glow" />
+  
+</div>
+
+### <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="25"> 🛠️ Development Tools & Version Control
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket&theme=dark" />
   
   <br/><br/>
   
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&animation=pulse" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&animation=glow" />
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white&animation=bounce" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white&animation=shake" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white&animation=shake" />
+  
+</div>
+
+### <img src="https://media.giphy.com/media/VgGthkhUvGgOit7Y9i/giphy.gif" width="25"> 💻 Operating Systems
+
+<div align="center">
+  
+  <img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&animation=pulse" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white&animation=glow" />
+  
+</div>
+
+<!-- Complete Tech Stack Overview -->
+<div align="center">
+  
+  ### <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25"> 🎯 Complete Technology Stack
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=MERN+Stack+•+MongoDB+•+MySQL+•+Node.js+•+React+JS+•+Next.js;JavaScript+•+HTML+•+CSS+•+PHP+•+Java+•+SQL+•+RESTful+API;Flutter+•+Flutter+Flow+•+Tailwind+CSS+•+Git+•+GitHub+•+Bitbucket;AWS+•+Firebase+•+XAMPP+•+Linux+OS+•+Windows+OS" alt="Complete Stack" />
   
 </div>
 
@@ -429,7 +492,7 @@
       <td align="center" width="25%">
         <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/>
         <br/><strong>🚀 Full-Stack Mastery</strong>
-        <br/><em>Modern web technologies expertise</em>
+        <br/><em>MERN Stack & modern technologies</em>
       </td>
       <td align="center" width="25%">
         <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50"/>
