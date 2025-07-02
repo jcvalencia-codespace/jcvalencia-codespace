@@ -43,7 +43,7 @@
 <div align="center">
   
   <!-- 3D Rotating Card Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🏢+Web+Developer+Intern+%26+Technical+Lead;📍+Creciendo+Philippines+(Dec+2024+-+June+2025);💡+Leading+Enterprise+BIMS+Development;🎯+Driving+Client+Acquisition+Through+Innovation" alt="Professional Summary" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🏢+Software+Engineer+Intern+%26+Technical+Lead;📍+Creciendo+Philippines+(Dec+2024+-+June+2025);💡+Leading+Enterprise+BIMS+Development;🎯+Driving+Client+Acquisition+Through+Innovation" alt="Professional Summary" />
   
 </div>
 
